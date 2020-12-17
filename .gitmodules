@@ -1,0 +1,6 @@
+[submodule "advent"]
+	path = advent
+	url = https://github.com/camphor-/advent.git
+[submodule "mecab-ipadic-neologd"]
+	path = mecab-ipadic-neologd
+	url = git@github.com:neologd/mecab-ipadic-neologd.git

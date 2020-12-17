@@ -1,0 +1,8 @@
+-c advent/requirements.txt
+click
+gensim
+html2text
+mecab-python3
+readability-lxml
+requests
+scikit-learn
